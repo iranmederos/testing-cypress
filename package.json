@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iranmederos/testing.git"
+  },
+  "keywords": [
+    "js",
+    "test",
+    "testing"
+  ],
+  "author": "Iran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iranmederos/testing/issues"
+  },
+  "homepage": "https://github.com/iranmederos/testing#readme",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
